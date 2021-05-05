@@ -1,0 +1,188 @@
+body {
+background-color: #CCBFA3;
+color: black;
+font-family: 'Open Sans', sans-serif;
+line-height: 1.5em;
+}
+
+.index-link {
+  color: #26374D
+}
+
+.nav {
+  background-color:  #26374D;
+  width: 100%;
+}
+
+
+.navbar.navbar-expand-lg.top {
+	font-weight: bold;
+	background-color: #26374D;
+	border-bottom: 1px solid #26374D;
+	box-shadow: 0 0 50px #26374D;
+}
+
+.navbar.navbar-expand-lg.top a {
+	color: white;
+	text-align: center;
+	padding: 14px 16px;
+	font-size: 17px;
+}
+
+.navbar.navbar-expand-lg.top a:hover {
+	background-color: #CCBFA3;
+	color: black;
+}
+
+.dropdown-menu, .dropdown-item a {
+color: white;
+background-color: #26374D;
+z-index: 1000;
+}
+
+
+#logo:hover {
+  background-color: #26374D;
+}
+
+.nav-item:active {
+	background-color: #26374D;
+	color: white;
+	border-radius: 5px;
+}
+a.nav-link {
+	margin:0 5px 0 5px;
+	border-radius: 5px;
+	max-width: 100%;
+  text-decoration: none;
+}
+
+span .badge .badge-warning {
+  font-size: 1em;
+}
+
+table, th, td, thead, tr {
+  border: 1px solid black;
+}
+
+.d-block w-100 {
+  max-width: 100%;
+  margin: auto;
+}
+
+.container-carousel {
+  width: 300px;
+  margin: auto;
+}
+
+h5 {
+  color: white;
+  text-shadow: 0px 0px 12px black;
+}
+
+.round {
+  border-radius: 50%;
+}
+
+.backgroundImage {
+  background-image: url('assets/images/tea-wall.jpg');
+  background-repeat: no-repeat;
+  opacity: 0.7;
+  background-size: cover;
+  height: 100%;
+}
+
+.linkSources {
+ color: rgb(184, 140, 39);
+ text-decoration: none;
+}
+
+.quote {
+  background-color: white;
+  color: black;
+}
+
+blockquote {
+  background-color: white;
+}
+
+.stars {
+  text-align: center;
+}
+
+.btn {
+  color: white;
+  background-color:  rgb(231, 170, 29); 
+  border: none;
+  box-shadow: 0 1px 20px 0 rgba(0, 0, 0, 0.2);
+}
+
+.card {
+  border: none;
+  box-shadow: 0 1px 20px 0 rgba(0, 0, 0, 0.4);
+  width: 20rem;
+}
+
+
+.index-link:link {
+color: #26374D;
+}
+
+
+.linkfooter .nav-link:link {
+  color: white;
+  text-decoration: none;
+}
+
+.tel:link {
+  color: #26374D;
+}
+
+/* mouse over link */
+a:hover {
+  color: rgb(184, 140, 39);
+}
+
+
+.btn:hover {
+  background-color: #26374D;
+  color: white;
+}
+
+.linkSources:hover {
+  color: #26374D;
+   text-decoration: none;
+}
+
+.linkfooter .nav-link:hover {
+  text-decoration: none;
+  color: white;
+}
+
+.tel:hover {
+  text-decoration: none;
+  color:  rgb(231, 170, 29);
+}
+
+/* selected link */
+a:active {
+  color: rgb(231, 170, 29);
+}
+
+.tel:active {
+color:  rgb(231, 170, 29);
+text-decoration: none;
+}
+
+.btn:active {
+  color: white;
+}
+
+.linkfooter:active {
+  text-decoration: none;
+  color: #CCBFA3;
+}
+
+#footer {
+background-color: black !important;
+}
