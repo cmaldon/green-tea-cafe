@@ -2,8 +2,26 @@
 ----
 Website created using HTML, CSS, JavaScript, Bootstrap, and jQuery.
 
+[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+<!-- <img src="assets/NNNNNNNNNNNNN" width="400"> -->
+<!-- <h2 align="center">____________________</h2> -->
+
+<!-- <h4 align="center">________________________</h4> -->
+
+# Visit Site
+---
 
 https://cs50b-week08.celestemaldonad.repl.co/root/home.html
+
+# Summary
+### -  *[Contributors](#Contributors)*
+### -  *[License](#License)*
+
+
+-----------------
+# Screenshots
+#### Progress images
 
 <img width="923" alt="green-tea-home" src="https://user-images.githubusercontent.com/69225402/117092113-34b18d80-ad12-11eb-9520-374f2b0c6436.png">
 
@@ -21,3 +39,21 @@ https://cs50b-week08.celestemaldonad.repl.co/root/home.html
 
 <img width="932" alt="green-tea-footer" src="https://user-images.githubusercontent.com/69225402/117092147-498e2100-ad12-11eb-93d0-66be292de049.png">
 
+
+-----------------
+# Contributors
+
+[![](https://contrib.rocks/image?repo=cmaldon/green-tea-cafe)](https://github.com/cmaldon/green-tea-cafe/graphs/contributors)
+
+##### Made with [contributors-img](https://contrib.rocks).
+
+-----------------
+# License
+#### MIT © cmaldon
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+```bash
+by celeste maldonado
+github.com/cmaldon
+cmaldonado@bearcubs.santarosa.edu
+______________________
+``` 
