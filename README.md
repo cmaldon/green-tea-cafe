@@ -1,5 +1,4 @@
 # green-tea-cafe
-----
 Website created using HTML, CSS, JavaScript, Bootstrap, and jQuery.
 
 [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
@@ -9,17 +8,23 @@ Website created using HTML, CSS, JavaScript, Bootstrap, and jQuery.
 
 <!-- <h4 align="center">________________________</h4> -->
 
+----
+
+
 # Visit Site
----
 
 https://cs50b-week08.celestemaldonad.repl.co/root/home.html
+
+----
+
 
 # Summary
 ### -  *[Contributors](#Contributors)*
 ### -  *[License](#License)*
 
+----
 
------------------
+
 # Screenshots
 #### Progress images
 
@@ -40,14 +45,29 @@ https://cs50b-week08.celestemaldonad.repl.co/root/home.html
 <img width="932" alt="green-tea-footer" src="https://user-images.githubusercontent.com/69225402/117092147-498e2100-ad12-11eb-93d0-66be292de049.png">
 
 
------------------
+----
+
+
+# Author
+<table class="example1" style="background-color:transparent;border-collapse:collapse; amrgin:auto;">
+  <tr>
+    <td style="border:1px solid black;padding:7px;width:50%;text-align:center;">
+      <image src="https://contrib.rocks/image?repo=cmaldon/pro_mern_stack" height="99px" width="99px"></image></td>
+    <td style="border:1px solid black;padding:7px;width:50%;text-align:center;">Celeste Maldonado<br>
+      <a href="https://github.com/cmaldon">github.com/cmaldon</a><br>
+     <a href="mailto: cmaldonado@bearcubs.santarosa.edu">email me</a></td>
+  </tr>
+</table>
+
+----
+
+
 # Contributors
+<h4>Thank you</h4>
 
-[![](https://contrib.rocks/image?repo=cmaldon/green-tea-cafe)](https://github.com/cmaldon/green-tea-cafe/graphs/contributors)
+----
 
-##### Made with [contributors-img](https://contrib.rocks).
 
------------------
 # License
 #### MIT © cmaldon
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -57,3 +77,5 @@ github.com/cmaldon
 cmaldonado@bearcubs.santarosa.edu
 ______________________
 ``` 
+
+----
